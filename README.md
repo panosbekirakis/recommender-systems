@@ -5,8 +5,8 @@ Matrix Factorization with SGD and Collaborative Filtering
 on the MovieLens 10M dataset.
 
 ## Structure
-- `Part 1` — Following standard approach (Basic SGD)
-- `Part 2` — Extended approach (Bias terms, Early stopping, Filtering)
+- `Part 1` — Following standard approach (Basic Vectorized SGD)
+- `Part 2` — Extended approach (Bias terms, Validation split, Early Stopping, Tuning)
 
 ## Dataset
 Download MovieLens 10M from:
